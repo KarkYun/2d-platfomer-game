@@ -414,3 +414,6 @@ libraries/ = SubResource("AnimationLibrary_0tnpc")
 
 [node name="slime_green" parent="Platforms" unique_id=1162678144 instance=ExtResource("6_p57ef")]
 position = Vector2(510, 85)
+
+[node name="slime_green" parent="." unique_id=1703586743 instance=ExtResource("6_p57ef")]
+position = Vector2(119, 5)
